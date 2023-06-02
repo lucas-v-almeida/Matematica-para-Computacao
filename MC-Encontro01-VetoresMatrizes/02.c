@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-#define TAM 5
+#define TAM 50
 
 void preencherVetor(int *V);
 void verificar(int *V);
